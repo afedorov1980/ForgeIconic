@@ -156,5 +156,6 @@
     "wrench"               : "e078",
     "clock"                : "e079",
 	"paperclip"			   : "e08a",
-    "mail_not"          : "270a"
+    "mail_not"             : "270a",
+    "exit"                 : "e07d"
 }
